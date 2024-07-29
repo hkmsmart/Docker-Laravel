@@ -16,10 +16,12 @@
 
 
 Ek Bilgiler:
+
 DockerFile içinde php8.2 ve composer kurulumu için komutlar bulunmaktadır.
+
 php laravel için kullanacağımız temel extension lar yine dockerfile içinde bulunmaktadır.
 
 Nginx url yönlendirme komutlarıda default.conf dosyasında bulunmaktadır.
   
   
-  github linki :https://hkmsmart.blogspot.com/2024/07/docker-laravel-compose.html
+github linki :https://hkmsmart.blogspot.com/2024/07/docker-laravel-compose.html
