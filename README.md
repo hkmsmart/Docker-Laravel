@@ -1,5 +1,5 @@
 # Docker-Laravel
-  Docker Laravel Composer Nginx Postgresql pgAdmin
+ Docker Laravel Composer  Nginx PHP8 Postgresql pgAdmin
 
   Klasorler oluşması için text.txt dosyası eklenmiştir, containerı ayağa kaldırmadan önce siliniz.
 
